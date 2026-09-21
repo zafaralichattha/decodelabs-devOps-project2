@@ -13,3 +13,6 @@ npm start
 
 License
 MIT License. Copyright (c) 2024 Atlas Engineering.
+
+# Contributing
+Pull requests are welcome!
